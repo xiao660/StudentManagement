@@ -1,0 +1,42 @@
+/* Reset & Base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Common styles */
+.page-container {
+    padding: 20px;
+}
+
+.page-header {
+    margin-bottom: 20px;
+}
+
+.operation-group {
+    margin-bottom: 20px;
+}
+
+.search-form {
+    margin-bottom: 20px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 4px;
+}
+
+/* Table styles */
+.table-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+/* Form styles */
+.form-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    max-width: 800px;
+    margin: 0 auto;
+}
